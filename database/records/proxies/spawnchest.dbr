@@ -1,0 +1,5 @@
+templateName,database/templates/spawnondeathpool.tpl,
+name1,records/proxies/luxrareloot.dbr,
+spawnMax,1,
+spawnMin,1,
+weight1,100,

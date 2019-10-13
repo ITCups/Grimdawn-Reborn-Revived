@@ -1,0 +1,6 @@
+templateName,database/templates/lootmastertable.tpl,
+Class,LootMasterTable,
+lootName1,records/items/loottables/weapons/lt_cry.dbr,
+lootName2,records/items/loottables/weapons/lt_cry_rare01.dbr,
+lootWeight1,200,
+lootWeight2,200,

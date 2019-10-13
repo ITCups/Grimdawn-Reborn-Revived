@@ -1,0 +1,7 @@
+templateName,database/templates/charfxpak.tpl,
+colorBlue,0.800000,
+colorGreen,0.500000,
+colorRed,0.300000,
+particleEffectAttachPoints,FXCentered,
+particleEffectNames,records/fx/skillclass07/wpain_fx01.dbr,
+useTintColor,0,

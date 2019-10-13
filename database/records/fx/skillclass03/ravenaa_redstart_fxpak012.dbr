@@ -1,0 +1,7 @@
+templateName,database/templates/fxpak.tpl,
+Class,FxPak,
+activateSound,records/sounds/environmental/supernatural/riftgate_cast01.dbr,
+cameraShakeAmplitude,0.100000,
+cameraShakeDuration,0.100000,
+disturbanceRadius,4.000000,
+particleEffectNames,records/fx/skillclass03/ravenaa_red_fx012.dbr,

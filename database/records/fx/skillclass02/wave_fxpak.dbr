@@ -1,0 +1,4 @@
+templateName,database/templates/fxpak.tpl,
+Class,FxPak,
+meshEffectNames,records/fx/meshfx/tectonicshift_meshfx01.dbr,
+particleEffectNames,records/fx/skillclass01/wave_appearance01.dbr,

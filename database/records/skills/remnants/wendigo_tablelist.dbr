@@ -1,0 +1,4 @@
+templateName,database/templates/leveltable.tpl,
+Class,LevelTable,
+levels,20;50;75,
+records,records/skills/remnants/wendigo_items.dbr;records/skills/remnants/wendigo_itemse.dbr;records/skills/remnants/wendigo_itemsu.dbr,

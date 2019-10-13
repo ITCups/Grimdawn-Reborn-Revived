@@ -1,0 +1,5 @@
+templateName,database/templates/fxpak.tpl,
+Class,FxPak,
+FileDescription,Elemental,
+disturbanceRadius,5.000000,
+particleEffectNames,records/fx/skillclass05/aetherbolt1_impact01_fx.dbr,

@@ -1,0 +1,5 @@
+templateName,database/templates/ingameui/bitmapsingle.tpl,
+FileDescription,BitmapSingle,
+bitmapName,textures/dev_inq3.tex,
+bitmapPositionX,320,
+bitmapPositionY,-401,

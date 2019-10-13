@@ -1,0 +1,4 @@
+templateName,database/templates/leveltable.tpl,
+Class,LevelTable,
+levels,20;50;75,
+records,records/skills/remnants/skeleton_items.dbr;records/skills/remnants/skeleton_itemse.dbr;records/skills/remnants/skeleton_itemsu.dbr,

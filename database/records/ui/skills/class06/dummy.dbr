@@ -1,0 +1,6 @@
+templateName,database/templates/ingameui/skillbutton.tpl,
+bitmapPositionX,-320,
+bitmapPositionY,-550,
+isCircular,1,
+skillName,records/skills/playerclass06/_classtraining_class06.dbr,
+soundNameDown,records/sounds/ui/spak_buttonskillincrement.dbr,

@@ -1,0 +1,7 @@
+templateName,database/templates/effect.tpl,
+ActorName,Effects_Tree_Break_Debris01,
+Anchored,0,
+Class,EffectEntity,
+canBeSoft,1,
+emitterType,Standard,
+localOrientFix,0,

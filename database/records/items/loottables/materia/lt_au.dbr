@@ -1,0 +1,4 @@
+templateName,database/templates/leveltable.tpl,
+Class,LevelTable,
+levels,1;55;80,
+records,records/items/loottables/materia/au1.dbr;records/items/loottables/materia/au2.dbr;records/items/loottables/materia/au3.dbr,

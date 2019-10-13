@@ -1,0 +1,5 @@
+templateName,database/templates/ingameui/bitmapsingle.tpl,
+FileDescription,BitmapSingle,
+bitmapName,textures/character_inventoryextrapanelimage6.tex,
+bitmapPositionX,400,
+bitmapPositionY,444,

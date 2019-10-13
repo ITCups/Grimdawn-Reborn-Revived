@@ -1,0 +1,4 @@
+templateName,database/templates/leveltable.tpl,
+Class,LevelTable,
+levels,50,
+records,records/items/remaugments/tdyn_augm_nb.dbr,

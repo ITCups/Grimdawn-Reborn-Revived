@@ -1,0 +1,5 @@
+templateName,database/templates/skillsecondary_petmodifier.tpl,
+Class,SkillSecondary_PetModifier,
+alternatePetModifierSkillName,records/skills/playerclass09/devil2b.dbr,
+alternateSecondaryPetModifierName,records/skills/playerclass06/devilspawphy.dbr,
+petSkillName,records/skills/playerclass06/tether.dbr,

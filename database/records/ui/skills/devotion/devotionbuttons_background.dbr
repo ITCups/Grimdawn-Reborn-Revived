@@ -1,0 +1,5 @@
+templateName,database/templates/ingameui/bitmapsingle.tpl,
+FileDescription,BitmapSingle,
+bitmapName,textures/dev_starx8.tex,
+bitmapPositionX,-32,
+bitmapPositionY,-32,

@@ -1,0 +1,8 @@
+templateName,database/templates/ingameui/skillbutton.tpl,
+bitmapPositionX,470,
+bitmapPositionY,20,
+isCircular,1,
+skillName,records/skills/playerclass01/_classtraining_class01.dbr,
+skillOffsetX,0,
+skillOffsetY,0,
+soundNameDown,records/sounds/ui/spak_buttonskillincrement.dbr,

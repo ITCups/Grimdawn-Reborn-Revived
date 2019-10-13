@@ -1,0 +1,8 @@
+templateName,database/templates/chaosbeam.tpl,
+BeamCount,10,
+Class,ChaosBeam,
+Shader,shaders/effects/trailadditive.ssh,
+Texture,fx/textures/lightningbolt_vitality.tex,
+TextureStretch,6.000000,
+TotalSegments,2.000000,
+Width,0.500000,

@@ -1,0 +1,6 @@
+templateName,database/templates/lootrandomizertabledynamic.tpl,
+Class,LootRandomizerTable,
+randomizerLevelMax1,74,
+randomizerLevelMin1,50,
+randomizerName1,records/items/lootaffixes/epicprefix/soldier_petmel50.dbr,
+randomizerWeight1,500,

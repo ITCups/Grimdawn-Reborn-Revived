@@ -1,0 +1,8 @@
+templateName,database/templates/lootmastertable.tpl,
+Class,LootMasterTable,
+lootName1,records/items/loottables/mastertables/lt_armo.dbr,
+lootName2,records/items/loottables/mastertables/lt_armo2.dbr,
+lootName3,records/items/loottables/mastertables/lt_armo3.dbr,
+lootWeight1,100,
+lootWeight2,100,
+lootWeight3,100,
