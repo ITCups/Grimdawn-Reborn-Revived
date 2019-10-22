@@ -1,0 +1,7 @@
+templateName,database/templates/fxpak.tpl,
+Class,FxPak,
+activateSound,records/sounds/skillsounds/class07/spak_runehagarrad_erupt.dbr,
+cameraShakeAmplitude,0.100000,
+cameraShakeDuration,0.100000,
+disturbanceRadius,0.000000,
+meshEffectNames,records/fx/devotion/icerune_spikesground_meshfx.dbr,

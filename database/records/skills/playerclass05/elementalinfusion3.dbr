@@ -1,6 +1,7 @@
 templateName,database/templates/skill_buffselftoggled.tpl,
 Axe,0,
 Class,Skill_BuffSelfToggled,
+FileDescription,UNARMED,
 Mace,0,
 Magical,0,
 Shield,0,

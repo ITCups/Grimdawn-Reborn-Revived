@@ -152,7 +152,6 @@ devotionConstellation98,records/ui/skills/devotion/constellations/constellation9
 devotionConstellation99,records/ui/skills/devotion/constellations/constellation99.dbr,
 disabledBitmap,records/ui/skills/devotion/devotionbuttons_disabledbitmap.dbr,
 edgeFade,ui/skills/devotion/devotion_vignetteframe.tex,
-effectBgBitmap,records/ui/skills/devotion/devotionbuttons_background.dbr,
 eldritchAlpha,1.000000,
 eldritchBlue,0.200000,
 eldritchGreen,1.000000,

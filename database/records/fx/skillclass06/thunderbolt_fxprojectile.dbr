@@ -1,7 +1,7 @@
 templateName,database/templates/projectilespark.tpl,
 Class,ProjectileSpark,
 actorHeight,0.000000,
-actorRadius,3.000000,
+actorRadius,1.000000,
 allowTransparency,0,
 castsShadows,1,
 changeDirectionTime,0.100000,

@@ -1,0 +1,6 @@
+templateName,database/templates/lootrandomizertabledynamic.tpl,
+Class,LootRandomizerTable,
+randomizerLevelMax1,200,
+randomizerLevelMin1,75,
+randomizerName1,records/items/lootaffixes/prefix/legendary/belt/procaura_leg.dbr,
+randomizerWeight1,500,

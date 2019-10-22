@@ -1,0 +1,8 @@
+templateName,database/templates/fxmesh.tpl,
+Class,FxMesh,
+animationName,fx/meshfx/anm/spinebone03a_ground_attack.anm,
+disturbanceRadius,1.000000,
+fadeOutTime,0.500000,
+meshName,fx/meshfx/spinebone03a_ground.msh,
+speed,0.700000,
+sustainTime,1.000000,

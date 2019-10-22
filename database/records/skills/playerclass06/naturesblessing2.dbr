@@ -1,6 +1,6 @@
-templateName,database/templates/skill_modifier.tpl,
+templateName,database/templates/skill_projectilemodifier.tpl,
 Axe,0,
-Class,Skill_Modifier,
+Class,Skill_ProjectileModifier,
 FileDescription,Basic mastery skill modifier,
 Mace,0,
 Magical,0,

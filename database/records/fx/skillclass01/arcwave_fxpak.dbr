@@ -1,0 +1,6 @@
+templateName,database/templates/fxpak.tpl,
+Class,FxPak,
+cameraShakeAmplitude,0.100000,
+cameraShakeDuration,0.100000,
+meshEffectNames,records/fx/meshfx/tectonicshift_meshfx01.dbr,
+particleEffectNames,records/fx/skillclass01/arcwave_appearance01.dbr,
