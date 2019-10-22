@@ -1,0 +1,5 @@
+templateName,database/templates/ingameui/uitutorialpageinstance.tpl,
+FadeSeconds,60,
+FileDescription,Crucible End,
+NuggetArray,records/ui/tutorial/survivalmodeend/end_n1.dbr;records/ui/tutorial/survivalmodeend/end_n2.dbr;records/ui/tutorial/survivalmodeend/end_n3.dbr;records/ui/tutorial/survivalmodeend/end_n4.dbr;records/ui/tutorial/survivalmodeend/end_n5.dbr;records/ui/tutorial/survivalmodeend/end_n6.dbr;records/ui/tutorial/survivalmodeend/end_n7.dbr;records/ui/tutorial/survivalmodeend/end_n8.dbr;records/ui/tutorial/survivalmodeend/end_n9.dbr;records/ui/tutorial/survivalmodeend/end_n10.dbr,
+quickTag,tagQuickTip64,

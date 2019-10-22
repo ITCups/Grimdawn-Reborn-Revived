@@ -1,0 +1,8 @@
+templateName,database/templates/playstats.tpl,
+bossBonus,400;800;1600,
+championBonus,3;6;12,
+commonBonus,1;2;4,
+heroBonus,30;60;120,
+questBonus,100;200;400,
+scoreEquation,((50*(maxLevel-1))+experienceFromKills)-(numberOfDeaths*(100*maxLevel))-((playTimeInMinutes*5)*(5*maxLevel))),
+survivalScoreEquation,survivalMonsterScore*(1 + survivalCurrentWaveTier / 10)*survivalBonusMultiplier,

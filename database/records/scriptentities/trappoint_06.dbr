@@ -1,0 +1,6 @@
+templateName,database/templates/scriptentity.tpl,
+Class,ScriptEntity,
+editorMesh,fx/meshfx/trap_obsidiansentry01b.msh,
+editorScale,1.000000,
+onAddToWorld,trapPoint06OnAddToWorld,
+pathing,0,

@@ -1,0 +1,6 @@
+templateName,database/templates/scriptentity.tpl,
+Class,ScriptEntity,
+editorMesh,creatures/enemies/proxybounty01.msh,
+editorScale,1.000000,
+onAddToWorld,spawnPoint05OnAddToWorld,
+pathing,0,

@@ -1,0 +1,4 @@
+templateName,database/templates/leveltable.tpl,
+Class,LevelTable,
+levels,1;20;30;50;75,
+records,records/items/loottables/gearhead/tdyn_headcaster_a01.dbr;records/items/loottables/gearhead/tdyn_headcaster_a02.dbr;records/items/loottables/gearhead/tdyn_headcaster_a03.dbr;records/items/loottables/gearhead/tdyn_head_c02_theexile.dbr;records/items/loottables/gearhead/tdyn_head_d01_theexile.dbr,

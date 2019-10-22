@@ -1,0 +1,6 @@
+templateName,database/templates/scriptentity.tpl,
+Class,ScriptEntity,
+editorMesh,creatures/pc/hero_00_body.msh,
+editorScale,2.000000,
+onAddToWorld,gd.survival.eventControl.eventNPCScriptEntityOnAddToWorld,
+pathing,0,

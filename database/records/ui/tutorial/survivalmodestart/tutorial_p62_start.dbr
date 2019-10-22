@@ -1,0 +1,5 @@
+templateName,database/templates/ingameui/uitutorialpageinstance.tpl,
+FadeSeconds,60,
+FileDescription,Start,
+NuggetArray,records/ui/tutorial/survivalmodestart/start_n1.dbr;records/ui/tutorial/survivalmodestart/start_n2.dbr;records/ui/tutorial/survivalmodestart/start_n3.dbr;records/ui/tutorial/survivalmodestart/start_n4.dbr;records/ui/tutorial/survivalmodestart/start_n5.dbr;records/ui/tutorial/survivalmodestart/start_n6.dbr;records/ui/tutorial/survivalmodestart/start_n7.dbr;records/ui/tutorial/survivalmodestart/start_n8.dbr;records/ui/tutorial/survivalmodestart/start_n9.dbr,
+quickTag,tagQuickTip62,
