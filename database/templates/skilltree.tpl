@@ -744,7 +744,7 @@ Group
 			value = ""
 			defaultValue = "0"
 		}
-		
+
 		Variable
 		{
 			name = "skillName36"
@@ -764,7 +764,7 @@ Group
 			value = ""
 			defaultValue = "0"
 		}
-		
+
 		Variable
 		{
 			name = "skillName37"
@@ -784,7 +784,7 @@ Group
 			value = ""
 			defaultValue = "0"
 		}
-		
+
 		Variable
 		{
 			name = "skillName38"
@@ -804,7 +804,7 @@ Group
 			value = ""
 			defaultValue = "0"
 		}
-		
+
 		Variable
 		{
 			name = "skillName39"
@@ -824,6 +824,7 @@ Group
 			value = ""
 			defaultValue = "0"
 		}
+
 		Variable
 		{
 			name = "skillName40"
@@ -843,6 +844,7 @@ Group
 			value = ""
 			defaultValue = "0"
 		}
+
 		Variable
 		{
 			name = "skillName41"
@@ -862,6 +864,7 @@ Group
 			value = ""
 			defaultValue = "0"
 		}
+
 		Variable
 		{
 			name = "skillName42"
@@ -881,6 +884,7 @@ Group
 			value = ""
 			defaultValue = "0"
 		}
+
 		Variable
 		{
 			name = "skillName43"
@@ -900,6 +904,7 @@ Group
 			value = ""
 			defaultValue = "0"
 		}
+
 		Variable
 		{
 			name = "skillName44"
@@ -919,6 +924,7 @@ Group
 			value = ""
 			defaultValue = "0"
 		}
+
 		Variable
 		{
 			name = "skillName45"
@@ -938,6 +944,7 @@ Group
 			value = ""
 			defaultValue = "0"
 		}
+
 		Variable
 		{
 			name = "skillName46"
@@ -957,6 +964,7 @@ Group
 			value = ""
 			defaultValue = "0"
 		}
+
 		Variable
 		{
 			name = "skillName47"
@@ -976,6 +984,7 @@ Group
 			value = ""
 			defaultValue = "0"
 		}
+
 		Variable
 		{
 			name = "skillName48"
@@ -995,6 +1004,7 @@ Group
 			value = ""
 			defaultValue = "0"
 		}
+
 		Variable
 		{
 			name = "skillName49"
@@ -1014,6 +1024,7 @@ Group
 			value = ""
 			defaultValue = "0"
 		}
+
 		Variable
 		{
 			name = "skillName50"
@@ -1033,6 +1044,7 @@ Group
 			value = ""
 			defaultValue = "0"
 		}
+
 		Variable
 		{
 			name = "skillName51"
@@ -1052,6 +1064,7 @@ Group
 			value = ""
 			defaultValue = "0"
 		}
+
 		Variable
 		{
 			name = "skillName52"
@@ -1071,6 +1084,7 @@ Group
 			value = ""
 			defaultValue = "0"
 		}
+
 		Variable
 		{
 			name = "skillName53"
@@ -1090,6 +1104,7 @@ Group
 			value = ""
 			defaultValue = "0"
 		}
+
 		Variable
 		{
 			name = "skillName54"
@@ -1109,6 +1124,7 @@ Group
 			value = ""
 			defaultValue = "0"
 		}
+
 		Variable
 		{
 			name = "skillName55"
@@ -1128,6 +1144,7 @@ Group
 			value = ""
 			defaultValue = "0"
 		}
+
 		Variable
 		{
 			name = "skillName56"
@@ -1147,6 +1164,7 @@ Group
 			value = ""
 			defaultValue = "0"
 		}
+
 		Variable
 		{
 			name = "skillName57"
@@ -1166,6 +1184,7 @@ Group
 			value = ""
 			defaultValue = "0"
 		}
+
 		Variable
 		{
 			name = "skillName58"
@@ -1185,6 +1204,7 @@ Group
 			value = ""
 			defaultValue = "0"
 		}
+
 		Variable
 		{
 			name = "skillName59"
@@ -1204,6 +1224,7 @@ Group
 			value = ""
 			defaultValue = "0"
 		}
+
 		Variable
 		{
 			name = "skillName60"
@@ -1223,6 +1244,7 @@ Group
 			value = ""
 			defaultValue = "0"
 		}
+
 		Variable
 		{
 			name = "skillName61"
@@ -1242,6 +1264,7 @@ Group
 			value = ""
 			defaultValue = "0"
 		}
+
 		Variable
 		{
 			name = "skillName62"
@@ -1261,6 +1284,7 @@ Group
 			value = ""
 			defaultValue = "0"
 		}
+
 		Variable
 		{
 			name = "skillName63"
@@ -1280,6 +1304,7 @@ Group
 			value = ""
 			defaultValue = "0"
 		}
+
 		Variable
 		{
 			name = "skillName64"
@@ -1299,6 +1324,7 @@ Group
 			value = ""
 			defaultValue = "0"
 		}
+
 		Variable
 		{
 			name = "skillName65"
@@ -1318,6 +1344,7 @@ Group
 			value = ""
 			defaultValue = "0"
 		}
+
 		Variable
 		{
 			name = "skillName66"
@@ -1337,6 +1364,7 @@ Group
 			value = ""
 			defaultValue = "0"
 		}
+
 		Variable
 		{
 			name = "skillName67"
@@ -1356,6 +1384,7 @@ Group
 			value = ""
 			defaultValue = "0"
 		}
+
 		Variable
 		{
 			name = "skillName68"
@@ -1375,6 +1404,7 @@ Group
 			value = ""
 			defaultValue = "0"
 		}
+
 		Variable
 		{
 			name = "skillName69"
@@ -1394,6 +1424,7 @@ Group
 			value = ""
 			defaultValue = "0"
 		}
+
 		Variable
 		{
 			name = "skillName70"
@@ -1413,6 +1444,7 @@ Group
 			value = ""
 			defaultValue = "0"
 		}
+
 		Variable
 		{
 			name = "skillName71"
@@ -1432,6 +1464,7 @@ Group
 			value = ""
 			defaultValue = "0"
 		}
+
 		Variable
 		{
 			name = "skillName72"
@@ -1451,6 +1484,7 @@ Group
 			value = ""
 			defaultValue = "0"
 		}
+
 		Variable
 		{
 			name = "skillName73"
@@ -1470,6 +1504,7 @@ Group
 			value = ""
 			defaultValue = "0"
 		}
+
 		Variable
 		{
 			name = "skillName74"
@@ -1489,6 +1524,7 @@ Group
 			value = ""
 			defaultValue = "0"
 		}
+
 		Variable
 		{
 			name = "skillName75"
@@ -1508,6 +1544,7 @@ Group
 			value = ""
 			defaultValue = "0"
 		}
+
 		Variable
 		{
 			name = "skillName76"
@@ -1527,6 +1564,7 @@ Group
 			value = ""
 			defaultValue = "0"
 		}
+
 		Variable
 		{
 			name = "skillName77"
@@ -1546,6 +1584,7 @@ Group
 			value = ""
 			defaultValue = "0"
 		}
+
 		Variable
 		{
 			name = "skillName78"
@@ -1565,6 +1604,7 @@ Group
 			value = ""
 			defaultValue = "0"
 		}
+
 		Variable
 		{
 			name = "skillName79"
@@ -1584,6 +1624,7 @@ Group
 			value = ""
 			defaultValue = "0"
 		}
+
 		Variable
 		{
 			name = "skillName80"
@@ -1603,6 +1644,7 @@ Group
 			value = ""
 			defaultValue = "0"
 		}
+
 		Variable
 		{
 			name = "skillName81"
@@ -1622,6 +1664,7 @@ Group
 			value = ""
 			defaultValue = "0"
 		}
+
 		Variable
 		{
 			name = "skillName82"
@@ -1641,6 +1684,7 @@ Group
 			value = ""
 			defaultValue = "0"
 		}
+
 		Variable
 		{
 			name = "skillName83"
@@ -1660,6 +1704,7 @@ Group
 			value = ""
 			defaultValue = "0"
 		}
+
 		Variable
 		{
 			name = "skillName84"
@@ -1679,6 +1724,7 @@ Group
 			value = ""
 			defaultValue = "0"
 		}
+
 		Variable
 		{
 			name = "skillName85"
@@ -1698,6 +1744,7 @@ Group
 			value = ""
 			defaultValue = "0"
 		}
+
 		Variable
 		{
 			name = "skillName86"
@@ -1717,6 +1764,7 @@ Group
 			value = ""
 			defaultValue = "0"
 		}
+
 		Variable
 		{
 			name = "skillName87"
@@ -1736,6 +1784,7 @@ Group
 			value = ""
 			defaultValue = "0"
 		}
+
 		Variable
 		{
 			name = "skillName88"
@@ -1755,6 +1804,7 @@ Group
 			value = ""
 			defaultValue = "0"
 		}
+
 		Variable
 		{
 			name = "skillName89"
@@ -1774,6 +1824,7 @@ Group
 			value = ""
 			defaultValue = "0"
 		}
+
 		Variable
 		{
 			name = "skillName90"
@@ -1793,6 +1844,7 @@ Group
 			value = ""
 			defaultValue = "0"
 		}
+
 		Variable
 		{
 			name = "skillName91"
@@ -1812,6 +1864,7 @@ Group
 			value = ""
 			defaultValue = "0"
 		}
+
 		Variable
 		{
 			name = "skillName92"
@@ -1831,6 +1884,7 @@ Group
 			value = ""
 			defaultValue = "0"
 		}
+
 		Variable
 		{
 			name = "skillName93"
@@ -1850,6 +1904,7 @@ Group
 			value = ""
 			defaultValue = "0"
 		}
+
 		Variable
 		{
 			name = "skillName94"
@@ -1869,6 +1924,7 @@ Group
 			value = ""
 			defaultValue = "0"
 		}
+
 		Variable
 		{
 			name = "skillName95"
@@ -1888,6 +1944,7 @@ Group
 			value = ""
 			defaultValue = "0"
 		}
+
 		Variable
 		{
 			name = "skillName96"
@@ -1907,6 +1964,7 @@ Group
 			value = ""
 			defaultValue = "0"
 		}
+
 		Variable
 		{
 			name = "skillName97"
@@ -1926,6 +1984,7 @@ Group
 			value = ""
 			defaultValue = "0"
 		}
+
 		Variable
 		{
 			name = "skillName98"
@@ -1945,6 +2004,7 @@ Group
 			value = ""
 			defaultValue = "0"
 		}
+
 		Variable
 		{
 			name = "skillName99"
@@ -1958,6 +2018,26 @@ Group
 		Variable
 		{
 			name = "skillLevel99"
+			class = "array"
+			type = "equation"
+			description = ""
+			value = ""
+			defaultValue = "0"
+		}
+
+		Variable
+		{
+			name = "skillName100"
+			class = "variable"
+			type = "file_dbr"
+			description = ""
+			value = ""
+			defaultValue = ""
+		}
+
+		Variable
+		{
+			name = "skillLevel100"
 			class = "array"
 			type = "equation"
 			description = ""

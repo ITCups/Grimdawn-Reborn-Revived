@@ -1,5 +1,5 @@
 templateName,database/templates/proxypool.tpl,
-championChance,40.000000,
+championChance,50.000000,
 championMax,1,
 championMin,1,
 ignoreGameBalance,1,

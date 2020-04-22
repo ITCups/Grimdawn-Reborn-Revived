@@ -1,0 +1,5 @@
+templateName,database/templates/fxpak.tpl,
+Class,FxPak,
+FileDescription,~4.2 Aether,
+activateSound,records/sounds/skillsounds/class05/spak_arcanetempest.dbr,
+particleEffectNames,records/fx/skillclass05/startcallidortempest01b_radius_fxfire.dbr,

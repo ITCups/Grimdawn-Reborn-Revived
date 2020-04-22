@@ -244,6 +244,7 @@ projectileOverride,records/fx/skillclass04/fireblades_chaos_sparkprojectile_03.d
 skillBaseDescription,luxtag02sk31d,
 skillConnectionOff,ui/skills/skillallocation/skills_connectoroncenter.tex;ui/skills/skillallocation/skills_connectoroncenter.tex;ui/skills/skillallocation/skills_connectoroncenter.tex,
 skillConnectionOn,ui/skills/skillallocation/skills_connectoroncenter.tex;ui/skills/skillallocation/skills_connectoroncenter.tex;ui/skills/skillallocation/skills_connectoroncenter.tex,
+skillDependancy,records/skills/playerclass02/_classtraining_class02.dbr,
 skillDisplayName,luxtag02sk31n,
 skillDownBitmapName,icons/demonb1down.tex,
 skillMaxLevel,1,

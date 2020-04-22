@@ -1,5 +1,0 @@
-DamageLifeLeech={%t0}% {^O}of Attack Damage converted to Health
-
-ItemSkillIncrement={+%d0} {^G}to {%s1}
-ItemMasteryIncrement={+%d0} {^f}to all skills in {%s1}{^E}
-ItemAllSkillIncrement={+%d0} {^f}to all Skills{^E}
